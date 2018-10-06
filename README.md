@@ -7,4 +7,4 @@ Webapp concept that allows users to browse news stories written in the simplest 
 [This](https://christinatchen.github.io/newsee/) is the static site.
 
 Here is an example of an informational infographic created for the site:
-![Infographic](https://github.com/christinatchen/newsee/images/infographic.JPG "infographic")
+![Infographic](https://github.com/christinatchen/newsee/master/images/infographic.jpg "infographic")
